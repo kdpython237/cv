@@ -1,0 +1,49 @@
+/**********************************TAGE SELECTORS *********************/
+
+body{
+
+  background-color: #EAF6F6;
+}
+
+    hr{
+      border-style: none;
+      border-top-style: dotted;
+      border-color: grey;
+      border width: 5px;
+      width: 5%
+    }
+
+    h1{
+      color: #66BFBF
+      }
+/*
+      H2{
+        color: #66BFBF
+        }
+*/
+
+    H3{
+      color: #66BFBF
+      }
+
+img:hover {
+        background-color: red; 
+
+          }
+
+
+/***********************************CLASS SELECTORS ***********************
+*
+*                                   <img class="bacon" src....
+*
+***************************************************************************/
+
+.bacon{
+      background-color: green;
+      }
+
+/***********************************Heading SELECTORS ***********************/
+
+#heading{
+        background-color: blue;
+        }
